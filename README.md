@@ -8,6 +8,7 @@ MinGW 32bit and 64bit version of OpenCV compiled on Windows.
 
 ```
 
+
 ```
 
 <details><summary>Configuration</summary> 
