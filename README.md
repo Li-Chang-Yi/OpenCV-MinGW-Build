@@ -1,13 +1,15 @@
 # OpenCV-MinGW-Build
 
-MinGW 32bit and 64bit version of OpenCV compiled on Windows.
+Come from https://github.com/huihut/OpenCV-MinGW-Build
+
+MinGW  64bit version of OpenCV compiled on Windows.
 
 ## Releases
 
-### [OpenCV-4.10.0-x64]
+### [OpenCV-4.10.0-x64](https://github.com/Li-Chang-Yi/OpenCV-MinGW-Build/tree/OpenCV-4.10.0-x64-with-contrib)
 
 ```
-
+git clone -b OpenCV-4.10.0-x64-with-contrib git@github.com:Li-Chang-Yi/OpenCV-MinGW-Build.git
 
 ```
 
