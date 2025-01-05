@@ -10,7 +10,6 @@ MinGW  64bit version of OpenCV compiled on Windows.
 
 ```
 git clone -b OpenCV-4.10.0-x64-with-contrib git@github.com:Li-Chang-Yi/OpenCV-MinGW-Build.git
-
 ```
 
 <details><summary>Configuration</summary> 
