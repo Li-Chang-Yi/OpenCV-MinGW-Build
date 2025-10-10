@@ -16,9 +16,9 @@ git clone -b OpenCV-4.10.0-x64-with-contrib git@github.com:Li-Chang-Yi/OpenCV-Mi
 <details><summary>Configuration</summary> 
 
 
-* mingw730_64
-* Windows-11-64bit-22000.2538
-* CMake-3.31.3
+* mingw810_64
+* Windows11_x64_23H2-22631.4460
+* CMake-3.31.9
 
 ```
 General configuration for OpenCV 4.12.0 =====================================
