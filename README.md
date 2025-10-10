@@ -2,7 +2,7 @@
 
 Come from https://github.com/huihut/OpenCV-MinGW-Build
 
-MinGW  64bit version of OpenCV compiled on Windows.
+MinGW 64bit version of OpenCV compiled on Windows.
 
 ## Releases
 
