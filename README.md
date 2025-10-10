@@ -7,7 +7,7 @@ MinGW 64bit version of OpenCV compiled on Windows.
 
 ## Releases
 
-### [opencv-4.12.0-mingw810_64](https://github.com/Li-Chang-Yi/OpenCV-MinGW-Build/tree/OpenCV-4.10.0-x64-with-contrib) | [zip](https://github.com/Li-Chang-Yi/OpenCV-MinGW-Build/archive/refs/tags/OpenCV_4.10.0_x64_with_contrib.zip) | 
+### [opencv-4.12.0-mingw810_64](https://github.com/Li-Chang-Yi/OpenCV-MinGW-Build/tree/OpenCV-4.10.0-x64-with-contrib) | [zip](https://github.com/Li-Chang-Yi/OpenCV-MinGW-Build/releases/download/4.12.0-x64-with-contrib/opencv-4.12.0-mingw810-x64-with-contrib.zip)
 
 <details><summary>Configuration</summary> 
 
