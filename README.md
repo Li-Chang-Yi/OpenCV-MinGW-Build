@@ -1,5 +1,5 @@
 # OpenCV-MinGW-Build
-Which platform to used on： Windows_x64
+Which platform to used on： **Windows_x64**
 
 Come from https://github.com/huihut/OpenCV-MinGW-Build
 
