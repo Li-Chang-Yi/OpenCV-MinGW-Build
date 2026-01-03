@@ -130,7 +130,7 @@ General configuration for OpenCV 4.13.0 =====================================
 
 </details>
 
-### [opencv-4.12.0-mingw810-x64-with-contrib]
+### [4.12.0-x64-with-contrib]
 
 <details><summary>Configuration</summary> 
 
@@ -250,7 +250,7 @@ General configuration for OpenCV 4.12.0 =====================================
 
 </details>
 
-### [opencv-4.10.0-mingw730-x64-with-contrib]
+### [4.10.0-x64-with-contrib]
 
 <details><summary>Configuration</summary> 
 
