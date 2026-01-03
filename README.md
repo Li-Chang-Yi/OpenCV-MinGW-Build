@@ -7,7 +7,7 @@ MinGW 64bit version of OpenCV compiled on Windows.
 
 ## Releases
 
-### [opencv-4.13.0-x64]
+### [4.13.0-x64]
 
 <details><summary>Configuration</summary> 
 
